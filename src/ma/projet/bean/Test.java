@@ -4,13 +4,14 @@
  * and open the template in the editor.
  */
 package ma.projet.bean;
+import java.util.Arrays;
+import java.util.List;
+import ma.projet.Personne;
 /**
  *
  * @author adhmin
  */
-import java.util.Arrays;
-import java.util.List;
-import ma.projet.Personne;
+
 
 public class Test {
 
