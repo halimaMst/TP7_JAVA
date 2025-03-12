@@ -4,14 +4,14 @@
  * and open the template in the editor.
  */
 package ma.projet.bean;
-
+import ma.projet.Personne;
 /**
  *
  * @author adhmin
  */
 
 
-import ma.projet.Personne;
+
 
 
 
