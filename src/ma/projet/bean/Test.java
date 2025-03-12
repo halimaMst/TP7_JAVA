@@ -22,9 +22,9 @@ public class Test {
 
     public static void main(String[] args) {
         Developpeur dev1;
-        dev1 = new Developpeur(1, "amal", "Tahiri", 3000, "Java");
+        dev1 = new Developpeur(1, "amal", "Tahiri", 3000, "Python");
         Manager manager1;
-        manager1 = new Manager(2, "Halima", "Moustine", 5000, "Ressources Humaines");
+        manager1 = new Manager(2, "Halima", "Moustine", 5000, "Java");
 
         List<Personne> personnes = Arrays.asList(dev1, manager1);
         listerPersonnes(personnes);
